@@ -29,10 +29,10 @@ force-https: True
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "José Iuri"
+title: "José Iuri"
+description: "Blog and portifolio of José Iuri's Work"
+keywords: "José, Iuri, personal, verification, microeletronics, testing"
 favicon: "/img/favicon.ico"
 
 ################
