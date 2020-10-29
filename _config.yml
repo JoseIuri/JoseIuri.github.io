@@ -1,12 +1,12 @@
 # Site settings
 title: Hardware Verification made easy.
-description: A blog about lorem ipsum dolor sit amet
+description: A blog about hardware verification
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: José Iuri
-user_description: Member of the Lab of Excellence on Microelectronics of Northeast of Brazil at UFCG. Has interests in the areas of Microelectronics and Hardware Verification.
+user_description: I am a member of the Laboratory of Excellence on Microelectronics of Northeast of Brazil at Federal University of Campina Grande. I have interests in the areas of Microelectronics and Hardware Verification.
 user_title: Hardware Verification
 email: jose.brito@ee.ufcg.edu.br
 github_username:  JoseIuri
